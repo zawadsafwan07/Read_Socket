@@ -1,16 +1,4 @@
 
-/**
- * WebClient Class
- * 
- * CPSC 441
- * Assignment 2
- * Abrar Zawad Safwan
- * 301508932
- * CPSC 441 Assignment 1
- * @author 	Majid Ghaderi
- * @version	2024
- *
- */
 
 import java.io.*;
 import java.net.ServerSocket;
